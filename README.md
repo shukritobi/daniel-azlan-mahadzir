@@ -13,8 +13,8 @@ The repository includes a GitHub Pages workflow. After the first successful work
 - `index.html` — semantic page structure and content
 - `styles.css` — responsive visual system
 - `script.js` — mobile navigation, scroll progress and reveal animation
-- `assets/daniel-headshot.webp` — official public Duke-NUS profile image, optimized for web
-- `assets/og-card.webp` — social sharing card
+- `assets/favicon.svg` — monogram favicon
+- Official Duke-NUS public profile image is referenced remotely in the concept build
 - `research-notes.md` — source audit, social profile verification and brand positioning notes
 - `.github/workflows/pages.yml` — automatic GitHub Pages deployment
 
